@@ -1,0 +1,9 @@
+{
+	"//timezone": "Set this to the hours ahead/behind UTC your timezone is. For example, I live in Brussels so it's 2 hours ahead of UTC",
+	"timezone": 2, 
+	"owmKey": "Get a key from OpenWeatherMaps",
+	"weatherUnits": "metric/imperial (Pick one and delete the rest)",
+	"time12h": true, 
+	"useDiscordWebhook": false,
+	"webhookURL": "Put Discord Webhook URL here if you want"
+}

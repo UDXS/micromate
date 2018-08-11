@@ -1,0 +1,26 @@
+{
+  "name": "udxs-micromate",
+  "version": "1.0.0",
+  "description": "A smart display using the Micro:bit & Pi",
+  "main": "micromate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UDXS/micromate.git"
+  },
+  "author": "Davit Markarian (UDXS)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UDXS/micromate/issues"
+  },
+  "homepage": "https://github.com/UDXS/micromate#readme",
+  "dependencies": {
+    "bbc-microbit": "^0.2.0",
+    "express": "^4.16.3",
+    "openweather-apis": "^3.3.5",
+    "request": "^2.87.0",
+    "yahoo-stocks": "^2.0.4"
+  }
+}
