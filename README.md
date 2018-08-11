@@ -176,6 +176,5 @@ you want like you did in the simulator.
 You can see all the possible commands by looking at
 the list of intents in Dialogflow.
 
-## Thanks for following! 
----
-If you liked it, please consider [donating!](https://www.paypal.me/udxs) I'm on twitter as [@UDXSDavid](https://twitter.com/UDXSDavid). Also check out my site [UDXS.me](https://udxs.me/).
+## Thanks for following this tutorial! 
+**If you liked it, please consider [donating!](https://www.paypal.me/udxs)** I'm on twitter as [@UDXSDavid](https://twitter.com/UDXSDavid). Also check out my site [UDXS.me](https://udxs.me/).
